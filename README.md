@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Overview
 
 This is a basic boiler plate application for generating and recovering Algorand accounts and for creating, signing and broadcasting basic pay transactions to the Algorand network.
 
